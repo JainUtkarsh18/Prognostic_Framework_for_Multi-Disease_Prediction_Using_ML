@@ -6,5 +6,5 @@
 3. **STEP 3:** Model Selection: Train and evaluate models like SVM, Logistic Regression, Random Forest. Choose best model per disease using metrics (Accuracy, F1, Recall).
 4. **STEP 4:** Train/Test Split: Use train/test split and cross-validation to avoid overfitting.
 5. **STEP 5:** Model Training and Saving: Train the models and serialize them using pickle. 
-6. **STEP 6:** Build Streamlit UI: Accept user input and display predictions interactively.
+6. **STEP 6:** Build Streamlit UI: Accept user input and display predictions interactively. 
 7. **STEP 7:** Deployment: Deploy locally or on cloud (Streamlit Cloud, Heroku). 
