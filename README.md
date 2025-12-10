@@ -1,4 +1,4 @@
-# Prognostic_Framework_for_Multi-Disease_Prediction_Using_ML
+# Prognostic_Framework_for_Multi-Disease_Prediction_Using_ML 
 
 ## Steps for Execution:   
 1. **STEP 1:** Data Collection: Source from EHRs, Kaggle, UCI Repository, or public datasets. Include features such as glucose levels, blood pressure, heart rate, etc.
