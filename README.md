@@ -35,5 +35,19 @@ This project builds an end-to-end system that:
 5. **STEP 5:** Model Training and Saving: Train the models and serialize them using pickle.       
 6. **STEP 6:** Build Streamlit UI: Accept user input and display predictions interactively. 
 7. **STEP 7:** Deployment: Deploy locally or on cloud (Streamlit Cloud, Heroku).    
+
+---
  
- 
+ ## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize this README and code according to your project's specific details and requirements! 
