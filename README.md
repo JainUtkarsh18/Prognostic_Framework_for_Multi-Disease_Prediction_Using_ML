@@ -1,6 +1,6 @@
 # Prognostic_Framework_for_Multi-Disease_Prediction_Using_ML 
 
-A prognostic framework that leverages machine learning algorithms to predict multiple diseases using patient health data and clinical parameters. This framework supports enhanced diagnostic accuracy and informed preventive healthcare decisions. :contentReference[oaicite:0]{index=0}
+A prognostic framework that leverages machine learning algorithms to predict multiple diseases using patient health data and clinical parameters. This framework supports enhanced diagnostic accuracy and informed preventive healthcare decisions.
 
 ---
 
