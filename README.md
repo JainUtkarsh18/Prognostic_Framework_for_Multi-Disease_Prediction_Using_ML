@@ -3,7 +3,7 @@
 A prognostic framework that leverages machine learning algorithms to predict multiple diseases using patient health data and clinical parameters. This framework supports enhanced diagnostic accuracy and informed preventive healthcare decisions.
 
 ---
-
+ 
 ## Project Overview 
 
 This project builds an end-to-end system that:
